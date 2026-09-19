@@ -11,15 +11,11 @@
   />
 </p>
 
-<br>
+## Hi, I'm [Anvesh](https://github.com/anveshr312-bit).
 
-<h2>Hi, I'm <a href="https://github.com/anveshr312-bit">Anvesh</a>.</h2>
+I'm a software engineer and builder from Indore, India.
 
-<p>
-  I'm a software engineer and builder from Indore, India.
-  I like turning ideas into systems, exploring new technologies,
-  and building things that solve meaningful problems.
-</p>
+I like turning ideas into systems, exploring new technologies, and building things that solve meaningful problems.
 
 <p align="center">
   <a href="https://github.com/anveshr312-bit">
@@ -61,102 +57,34 @@
 
 ## // FEATURED PROJECTS
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+| Project | Description |
+| --- | --- |
+| **[TraceX](https://github.com/apoorvgarewal07/TraceX)** | Blockchain-forensics platform for tracing cryptocurrency fund flows from suspect wallets toward exchanges and identifiable entities. |
+| **[R³P](https://github.com/anveshr312-bit/railway-routing-service)** | Rail Rapid Response Platform focused on real-time issue reporting, tracking, and resolution workflows. |
 
 ### TraceX
 
-**Blockchain intelligence for safer investigations.**
-
-TraceX is a blockchain-forensics platform designed to help investigators trace cryptocurrency fund flows from a suspect wallet toward exchanges and other identifiable entities.
-
-**Built with**
-
 `Next.js` `FastAPI` `Neo4j` `PostgreSQL` `Redis` `Etherscan`
 
-<br>
-
-<a href="https://github.com/apoorvgarewal07/TraceX">
-  → VIEW PROJECT
-</a>
-
-    </td>
-
-    <td width="50%" valign="top">
+[→ VIEW PROJECT](https://github.com/apoorvgarewal07/TraceX)
 
 ### R³P
 
-**Rail Rapid Response Platform**
-
-A railway-focused platform built around real-time issue reporting, tracking, and resolution workflows.
-
-**Built with**
-
 `Full Stack` `Next.js` `Python` `APIs` `Systems`
 
-<br>
-
-<a href="https://github.com/anveshr312-bit/railway-routing-service">
-  → VIEW PROJECT
-</a>
-
-    </td>
-  </tr>
-</table>
+[→ VIEW PROJECT](https://github.com/anveshr312-bit/railway-routing-service)
 
 ---
 
 ## // TECH STACK
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React">
-      <br>React
-    </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js">
-      <br>Next.js
-    </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript">
-      <br>TypeScript
-    </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python">
-      <br>Python
-    </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI">
-      <br>FastAPI
-    </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL">
-      <br>PostgreSQL
-    </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40" alt="Neo4j">
-      <br>Neo4j
-    </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker">
-      <br>Docker
-    </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS">
-      <br>AWS
-    </td>
-  </tr>
-</table>
+| Frontend | Backend | Data & Infrastructure |
+| --- | --- | --- |
+| React | Python | PostgreSQL |
+| Next.js | FastAPI | Neo4j |
+| TypeScript | REST APIs | Redis |
+| Tailwind CSS | Node.js | Docker |
+| Three.js | Full Stack | AWS |
 
 ---
 
@@ -174,51 +102,19 @@ A railway-focused platform built around real-time issue reporting, tracking, and
 
 ## // ENGINEERING INTERESTS
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-
-### SYSTEMS
-
-Backend architecture  
-APIs  
-Distributed systems  
-Databases
-
-    </td>
-
-    <td width="33%" align="center">
-
-### INTELLIGENCE
-
-Blockchain forensics  
-Graph analysis  
-AI-assisted workflows  
-Data systems
-
-    </td>
-
-    <td width="33%" align="center">
-
-### CREATION
-
-Product development  
-Game development  
-Interactive experiences  
-Visual design
-
-    </td>
-  </tr>
-</table>
+| SYSTEMS | INTELLIGENCE | CREATION |
+| --- | --- | --- |
+| Backend architecture | Blockchain forensics | Product development |
+| APIs | Graph analysis | Game development |
+| Distributed systems | AI-assisted workflows | Interactive experiences |
+| Databases | Data systems | Visual design |
 
 ---
 
 ## // MORE ABOUT ME
 
 <details>
-  <summary><b>About Me</b></summary>
-
-<br>
+<summary><b>About Me</b></summary>
 
 I'm an IT student interested in software engineering, full-stack development, systems, and building products.
 
@@ -227,9 +123,7 @@ I enjoy working across the stack rather than staying confined to one layer of a 
 </details>
 
 <details>
-  <summary><b>Projects</b></summary>
-
-<br>
+<summary><b>Projects</b></summary>
 
 Some of the projects I've worked on include:
 
@@ -242,9 +136,7 @@ Some of the projects I've worked on include:
 </details>
 
 <details>
-  <summary><b>Experience & Education</b></summary>
-
-<br>
+<summary><b>Experience & Education</b></summary>
 
 **B.Tech — Information Technology**
 
@@ -257,18 +149,14 @@ May – July 2026
 </details>
 
 <details>
-  <summary><b>Interests</b></summary>
-
-<br>
+<summary><b>Interests</b></summary>
 
 Software engineering • Game development • Blockchain • AI • UI/UX • Anime • Marvel/DC • Video editing
 
 </details>
 
 <details>
-  <summary><b>Get in Touch</b></summary>
-
-<br>
+<summary><b>Get in Touch</b></summary>
 
 - GitHub: [@anveshr312-bit](https://github.com/anveshr312-bit)
 - LinkedIn: [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
