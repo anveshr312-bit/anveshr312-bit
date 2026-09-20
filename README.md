@@ -1,149 +1,151 @@
-<!-- =========================================================
-     ANVESH RATHORE — GITHUB PROFILE README
-     Repository: anveshr312-bit/anveshr312-bit
-     ========================================================= -->
-
 <p align="center">
   <img
     src="./assets/hero.png"
-    alt="Anvesh Rathore — Software Engineer and Builder"
+    alt="Anvesh Rathore"
     width="100%"
   />
 </p>
 
-## Hi, I'm [Anvesh](https://github.com/anveshr312-bit).
+---
 
-I'm a software engineer and builder from Indore, India.
+# About Me
 
-I like turning ideas into systems, exploring new technologies, and building things that solve meaningful problems.
+I'm an Information Technology student and software builder interested in creating things that sit somewhere between engineering, design, and creativity.
+
+I enjoy working across the stack, from shaping interfaces to building the systems behind them. My interests span software engineering, AI, blockchain, product development, game development, visual design, and storytelling.
+
+I've worked on hackathon projects, full-stack applications, experimental web experiences, and community-driven projects. I like learning by building, and I tend to keep refining an idea long after the first version works.
+
+Right now, I'm focused on becoming a stronger software engineer, building more ambitious products, and turning ideas into things people can actually use.
+
+---
+
+# Selected Work
+
+## TraceX
 
 <p align="center">
-  <a href="https://github.com/anveshr312-bit">
+  <a href="https://github.com/apoorvgarewal07/TraceX">
     <img
-      src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-  &nbsp;
-  <a href="YOUR_LINKEDIN_URL">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL">
-    <img
-      src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-  &nbsp;
-  <a href="YOUR_RESUME_URL">
-    <img
-      src="https://img.shields.io/badge/Resume-111111?style=flat-square&logo=readthedocs&logoColor=white"
-      alt="Resume"
+      src="./assets/tracex.png"
+      alt="TraceX"
+      width="420"
     />
   </a>
 </p>
 
+Blockchain intelligence for tracing cryptocurrency fund flows from suspect wallets toward exchanges and identifiable entities.
+
+**Stack:** `Next.js` `FastAPI` `Neo4j` `PostgreSQL` `Redis` `Etherscan`
+
 <p align="center">
-  <sub>INDORE, INDIA</sub>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <sub>BUILD • EXPLORE • LEARN • REPEAT</sub>
+  <a href="https://github.com/apoorvgarewal07/TraceX">VIEW REPOSITORY →</a>
 </p>
 
 ---
 
-## // FEATURED PROJECTS
+## MoodMirror
 
-| Project | Description |
-| --- | --- |
-| **[TraceX](https://github.com/apoorvgarewal07/TraceX)** | Blockchain-forensics platform for tracing cryptocurrency fund flows from suspect wallets toward exchanges and identifiable entities. |
-| **[R³P](https://github.com/anveshr312-bit/railway-routing-service)** | Rail Rapid Response Platform focused on real-time issue reporting, tracking, and resolution workflows. |
+<p align="center">
+  <a href="YOUR_MOODMIRROR_REPOSITORY_URL">
+    <img
+      src="./assets/moodmirror.png"
+      alt="MoodMirror"
+      width="420"
+    />
+  </a>
+</p>
 
-### TraceX
+A project exploring the intersection of mood, reflection, technology, and human-centered interaction.
 
-`Next.js` `FastAPI` `Neo4j` `PostgreSQL` `Redis` `Etherscan`
+**Stack:** `JavaScript` `Web` `AI`
 
-[→ VIEW PROJECT](https://github.com/apoorvgarewal07/TraceX)
-
-### R³P
-
-`Full Stack` `Next.js` `Python` `APIs` `Systems`
-
-[→ VIEW PROJECT](https://github.com/anveshr312-bit/railway-routing-service)
-
----
-
-## // TECH STACK
-
-| Frontend | Backend | Data & Infrastructure |
-| --- | --- | --- |
-| React | Python | PostgreSQL |
-| Next.js | FastAPI | Neo4j |
-| TypeScript | REST APIs | Redis |
-| Tailwind CSS | Node.js | Docker |
-| Three.js | Full Stack | AWS |
+<p align="center">
+  <a href="https://github.com/anveshr312-bit/moodmirror-web.git">VIEW REPOSITORY →</a>
+</p>
 
 ---
 
-## // CURRENTLY BUILDING
+## One Piece Portfolio
 
-```text
-> Improving TraceX
-> Exploring game development
-> Learning more about distributed systems
-> Building useful things
-> Trying to be a little better than yesterday █
-```
+<p align="center">
+  <a href="https://github.com/anveshr312-bit/onepiece-portfolio-anvesh">
+    <img
+      src="./assets/onepiece.png"
+      alt="One Piece Portfolio"
+      width="420"
+    />
+  </a>
+</p>
+
+An interactive personal portfolio inspired by One Piece, combining storytelling, motion, and interactive web technology.
+
+**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Three.js`
+
+<p align="center">
+  <a href="https://github.com/anveshr312-bit/onepiece-portfolio-anvesh">VIEW REPOSITORY →</a>
+</p>
 
 ---
 
-## // ENGINEERING INTERESTS
+# Tech Stack
 
-| SYSTEMS | INTELLIGENCE | CREATION |
-| --- | --- | --- |
-| Backend architecture | Blockchain forensics | Product development |
-| APIs | Graph analysis | Game development |
-| Distributed systems | AI-assisted workflows | Interactive experiences |
-| Databases | Data systems | Visual design |
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## // MORE ABOUT ME
+# What I'm Up To
+
+🔭 **I'm currently working on**  
+TraceX, full-stack products, and experimental web experiences.
+
+👯 **I'm looking to collaborate on**  
+Interesting open-source projects, AI tools, and product ideas that are worth building.
+
+🤝 **I'm looking for help with**  
+Turning ambitious ideas into scalable, polished products.
+
+🌱 **I'm currently learning**  
+Distributed systems, backend architecture, AI/ML, and game development.
+
+💬 **Ask me about**  
+Ideas, projects, anime, game development, design, storytelling, and the rabbit holes I fall into while building things.
+
+⚡ **Fun fact**  
+I rarely leave an idea alone once it gets stuck in my head.
+
+---
+
+# More About Me
 
 <details>
-<summary><b>About Me</b></summary>
+<summary><b>Education</b></summary>
 
-I'm an IT student interested in software engineering, full-stack development, systems, and building products.
+<br>
 
-I enjoy working across the stack rather than staying confined to one layer of a project.
-
-</details>
-
-<details>
-<summary><b>Projects</b></summary>
-
-Some of the projects I've worked on include:
-
-- **TraceX** — Blockchain investigation and fund-flow tracing
-- **R³P** — Rail Rapid Response Platform
-- **One Piece Portfolio** — Interactive portfolio built with Next.js, Tailwind, Framer Motion and Three.js
-- **ScanMaster** — Inventory-oriented web application
-- **UniTrackERP** — ERP-oriented application
-
-</details>
-
-<details>
-<summary><b>Experience & Education</b></summary>
-
-**B.Tech — Information Technology**
-
+**B.Tech — Information Technology**  
 Acropolis Institute of Technology and Research, Indore
 
-**Full Stack Intern — Indian Railway R³P**
+</details>
 
+<details>
+<summary><b>Experience</b></summary>
+
+<br>
+
+**Full Stack Intern — Indian Railway R³P**  
 May – July 2026
 
 </details>
@@ -151,34 +153,42 @@ May – July 2026
 <details>
 <summary><b>Interests</b></summary>
 
-Software engineering • Game development • Blockchain • AI • UI/UX • Anime • Marvel/DC • Video editing
+<br>
 
-</details>
-
-<details>
-<summary><b>Get in Touch</b></summary>
-
-- GitHub: [@anveshr312-bit](https://github.com/anveshr312-bit)
-- LinkedIn: [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
-- Email: [YOUR_EMAIL](mailto:YOUR_EMAIL)
+Software engineering • AI • Blockchain • Game development • UI/UX • Storytelling • Anime • Marvel/DC • Video editing
 
 </details>
 
 ---
 
-## // ACTIVITY
+# Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anvesh__rathore/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anveshr312/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anveshr312@gmail.com)
+
+---
+
+# GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=anveshr312-bit&show_icons=true&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.shion.dev/api?username=anveshr312-bit&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=anveshr312-bit&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=anveshr312-bit&theme=dark&hide_border=true"
     alt="GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=anveshr312-bit&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    alt="Top languages"
   />
 </p>
 
@@ -187,11 +197,7 @@ Software engineering • Game development • Blockchain • AI • UI/UX • An
 <p align="center">
   <img
     src="./assets/footer.png"
-    alt="Same ideas. A more interesting tomorrow."
+    alt="Footer illustration"
     width="100%"
   />
-</p>
-
-<p align="center">
-  <sub>THANKS FOR VISITING.</sub>
 </p>
