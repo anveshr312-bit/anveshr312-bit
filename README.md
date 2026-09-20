@@ -20,71 +20,12 @@ Right now, I'm focused on becoming a stronger software engineer, building more a
 
 ---
 
-# Selected Work
+# 🚀 Selected Work
 
-## TraceX
-
-<p align="center">
-  <a href="https://github.com/apoorvgarewal07/TraceX">
-    <img
-      src="./assets/tracex.png"
-      alt="TraceX"
-      width="420"
-    />
-  </a>
-</p>
-
-Blockchain intelligence for tracing cryptocurrency fund flows from suspect wallets toward exchanges and identifiable entities.
-
-**Stack:** `Next.js` `FastAPI` `Neo4j` `PostgreSQL` `Redis` `Etherscan`
-
-<p align="center">
-  <a href="https://github.com/apoorvgarewal07/TraceX">VIEW REPOSITORY →</a>
-</p>
-
----
-
-## MoodMirror
-
-<p align="center">
-  <a href="YOUR_MOODMIRROR_REPOSITORY_URL">
-    <img
-      src="./assets/moodmirror.png"
-      alt="MoodMirror"
-      width="420"
-    />
-  </a>
-</p>
-
-A project exploring the intersection of mood, reflection, technology, and human-centered interaction.
-
-**Stack:** `JavaScript` `Web` `AI`
-
-<p align="center">
-  <a href="https://github.com/anveshr312-bit/moodmirror-web.git">VIEW REPOSITORY →</a>
-</p>
-
----
-
-## One Piece Portfolio
-
-<p align="center">
-  <a href="https://github.com/anveshr312-bit/onepiece-portfolio-anvesh">
-    <img
-      src="./assets/onepiece.png"
-      alt="One Piece Portfolio"
-      width="420"
-    />
-  </a>
-</p>
-
-An interactive personal portfolio inspired by One Piece, combining storytelling, motion, and interactive web technology.
-
-**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Three.js`
-
-<p align="center">
-  <a href="https://github.com/anveshr312-bit/onepiece-portfolio-anvesh">VIEW REPOSITORY →</a>
-</p>
+| [TraceX](https://github.com/apoorvgarewal07/TraceX) | [MoodMirror](https://github.com/anveshr312-bit/moodmirror-web) | [One Piece Portfolio](https://github.com/anveshr312-bit/onepiece-portfolio-anvesh) |
+| :---: | :---: | :---: |
+| <a href="https://github.com/apoorvgarewal07/TraceX"><img src="./assets/tracex.png" alt="TraceX" width="200"></a> | <a href="https://github.com/anveshr312-bit/moodmirror-web"><img src="./assets/moodmirror.png" alt="MoodMirror" width="200"></a> | <a href="https://github.com/anveshr312-bit/onepiece-portfolio-anvesh"><img src="./assets/onepiece.png" alt="One Piece Portfolio" width="200"></a> |
+| `Next.js` `FastAPI` `Neo4j` | `JavaScript` `Web` `AI` | `Next.js` `TypeScript` `Three.js` |
 
 ---
 
@@ -169,28 +110,35 @@ Software engineering • AI • Blockchain • Game development • UI/UX • St
 
 ---
 
-# GitHub Activity
+# 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api?username=anveshr312-bit&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=anveshr312-bit&theme=dark&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=anveshr312-bit&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-    alt="Top languages"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.shion.dev/api?username=anveshr312-bit&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+        alt="GitHub statistics"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://streak-stats.demolab.com/?user=anveshr312-bit&theme=dark&hide_border=true"
+        alt="GitHub contribution streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=anveshr312-bit&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top languages"
+        width="360"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
